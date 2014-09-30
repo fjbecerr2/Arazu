@@ -1,0 +1,29 @@
+BACKLOG	- HISTORIAS DE USUAIO 
+-----------------------------
+PRIORIDAD	HISTORIA				VALOR		ESFUERZO ESTIMADO
+---------	--------				-----		----------------
+1		Indicar ubicacion proyecto		 10
+		Criterios de aceptacion
+		-----------------------
+			Aceptar ubicacion
+			No aceptar ubicacion vacia
+			Permitir incluir subdirectorios
+			Utilizar solo ficheros .h
+
+1		Indicar ubicacion documentacion		 10
+		Criterios de aceptacion
+		-----------------------
+			Aceptar ubicacion
+			No aceptar ubicacion vacia
+			
+1		Generar documentacion HTML		 10
+		Criterios de aceptacion
+		-----------------------
+			Crear un fichero html con cada fichero origen
+			Crear un entrada para cada funcion
+
+2		Ver ayuda				  9	
+		Criterios de aceptacion
+		-----------------------
+			Debe existir el fichero de ayuda
+			Debe ejecutarse desde la linea de ordeness
