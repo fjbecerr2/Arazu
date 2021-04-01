@@ -10,6 +10,9 @@ PRIORIDAD	HISTORIA				VALOR		ESFUERZO ESTIMADO
 			Permitir incluir subdirectorios
 			Utilizar solo ficheros .h
 
+      LINEA DE PRUEBA
+
+
 1		Indicar ubicacion documentacion		 10
 		Criterios de aceptacion
 		-----------------------
